@@ -2,8 +2,8 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 const ytdl = require('ytdl-core');
-const auth = require('./JSONHome/auth.json');
-const prefix = require('./JSONHome/prefix.json');
+const auth = require('./auth.json');
+const prefix = require('./prefix.json');
 
 //#endregion
 
